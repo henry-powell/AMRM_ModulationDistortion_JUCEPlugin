@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+
+# JUCE generated folders
+Builds/
+JuceLibraryCode/
+
+# Plugin binaries
+*.vst3
+*.component
+*.au
+*.aax
+*.app
+*.a
+
+# Debug / Release folders
+Debug/
+Release/
