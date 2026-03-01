@@ -2,7 +2,7 @@
 
 ## Plugin Interface
 
-<img src="assets/plugin_ui.png" width=700" alt="Plugin UI screenshot">
+<img src="assets/plugin_ui.png" width="700" alt="Plugin UI screenshot">
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-JUCE-orange)
