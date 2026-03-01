@@ -1,5 +1,9 @@
 # ModulationDistortionPulser — JUCE AM/RM Modulation Distortion Plugin
 
+## Plugin Interface
+
+![AMRM Modulation Distortion Plugin](assets/plugin_ui.png)
+
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-JUCE-orange)
 ![Project Type](https://img.shields.io/badge/Project-Type%3A%20Audio%20Plugin-success)
