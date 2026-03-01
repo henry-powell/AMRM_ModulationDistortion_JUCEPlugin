@@ -2,7 +2,11 @@
 
 ## Plugin Interface
 
-<img src="assets/plugin_ui.png" width="700" alt="Plugin UI screenshot">
+<h2 align="center">Plugin Interface</h2>
+
+<p align="center">
+  <img src="assets/plugin_ui.png" width="700" alt="AM/RM Modulation Distortion Plugin UI">
+</p>
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-JUCE-orange)
