@@ -2,7 +2,9 @@
 
 ## Plugin Interface
 
-![AMRM Modulation Distortion Plugin](assets/plugin_ui.png)
+<p align="center">
+  <img src="assets/plugin_ui.png" width="700">
+</p>
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-JUCE-orange)
