@@ -1,7 +1,5 @@
 # ModulationDistortionPulser — JUCE AM/RM Modulation Distortion Plugin
 
-## Plugin Interface
-
 <h2 align="center">Plugin Interface</h2>
 
 <p align="center">
